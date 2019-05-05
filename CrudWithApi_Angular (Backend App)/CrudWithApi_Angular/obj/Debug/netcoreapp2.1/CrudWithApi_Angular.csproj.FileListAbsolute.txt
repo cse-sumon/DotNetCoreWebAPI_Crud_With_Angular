@@ -1,0 +1,14 @@
+C:\Users\HP-NPC\source\repos\CrudWithApi_Angular\CrudWithApi_Angular\bin\Debug\netcoreapp2.1\CrudWithApi_Angular.deps.json
+C:\Users\HP-NPC\source\repos\CrudWithApi_Angular\CrudWithApi_Angular\bin\Debug\netcoreapp2.1\CrudWithApi_Angular.runtimeconfig.json
+C:\Users\HP-NPC\source\repos\CrudWithApi_Angular\CrudWithApi_Angular\bin\Debug\netcoreapp2.1\CrudWithApi_Angular.runtimeconfig.dev.json
+C:\Users\HP-NPC\source\repos\CrudWithApi_Angular\CrudWithApi_Angular\bin\Debug\netcoreapp2.1\CrudWithApi_Angular.dll
+C:\Users\HP-NPC\source\repos\CrudWithApi_Angular\CrudWithApi_Angular\bin\Debug\netcoreapp2.1\CrudWithApi_Angular.pdb
+C:\Users\HP-NPC\source\repos\CrudWithApi_Angular\CrudWithApi_Angular\obj\Debug\netcoreapp2.1\CrudWithApi_Angular.csprojAssemblyReference.cache
+C:\Users\HP-NPC\source\repos\CrudWithApi_Angular\CrudWithApi_Angular\obj\Debug\netcoreapp2.1\CrudWithApi_Angular.csproj.CoreCompileInputs.cache
+C:\Users\HP-NPC\source\repos\CrudWithApi_Angular\CrudWithApi_Angular\obj\Debug\netcoreapp2.1\CrudWithApi_Angular.RazorAssemblyInfo.cache
+C:\Users\HP-NPC\source\repos\CrudWithApi_Angular\CrudWithApi_Angular\obj\Debug\netcoreapp2.1\CrudWithApi_Angular.RazorAssemblyInfo.cs
+C:\Users\HP-NPC\source\repos\CrudWithApi_Angular\CrudWithApi_Angular\obj\Debug\netcoreapp2.1\CrudWithApi_Angular.AssemblyInfoInputs.cache
+C:\Users\HP-NPC\source\repos\CrudWithApi_Angular\CrudWithApi_Angular\obj\Debug\netcoreapp2.1\CrudWithApi_Angular.AssemblyInfo.cs
+C:\Users\HP-NPC\source\repos\CrudWithApi_Angular\CrudWithApi_Angular\obj\Debug\netcoreapp2.1\CrudWithApi_Angular.RazorTargetAssemblyInfo.cache
+C:\Users\HP-NPC\source\repos\CrudWithApi_Angular\CrudWithApi_Angular\obj\Debug\netcoreapp2.1\CrudWithApi_Angular.dll
+C:\Users\HP-NPC\source\repos\CrudWithApi_Angular\CrudWithApi_Angular\obj\Debug\netcoreapp2.1\CrudWithApi_Angular.pdb
